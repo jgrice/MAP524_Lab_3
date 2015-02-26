@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Guide</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="terminology_desc">The terminology section provides information regarding common terms used in android development</string>
+    <string name="website_desc">The websites section provides links to various websites with information useful for learning Android</string>
+
+    <string-array name="webLinks">
+        <item>https://www.android.com/</item>
+        <item>http://www.androidcentral.com</item>
+        <item>https://developer.android.com/training/index.html</item>
+        <item>http://xda-developers.com</item>
+        <item>www.tutorialspoint.com/android</item>
+        <item>www.stackoverflow.com</item>
+        <item>www.code.tutsplus.com</item>
+        <item>www.codelearn.org</item>
+        <item>www.androidfourms.com</item>
+        <item>www.anddev.org</item>
+        <item>www.androidpit.com</item>
+        <item>www.android-developers.blogspot.com</item>
+    </string-array>
+    <string-array name="Terms">
+        <item>adb,Command line tool allowing the communication with an emulator or android device</item>
+        <item>Emulator,A tool allowing for your computer to act as/emulate an Android device</item>
+        <item>Android,An operating system</item>
+        <item>Screenshot2,A tool allowing for screen capture of an emulator device</item>
+        <item>gradle,A tool for build autmation including testing and deploying</item>
+        <item>pm,The command to remove your application from your test device</item>
+        <item>lint,A debugging tool for optimizing your build</item>
+        <item>Project,A project is the top level of your work and contains all the code and data needed to develop and build your application similar to a workspace in Eclipse.</item>
+        <item>Panel,A panel is a screen that is displayed on your device.</item>
+        <item>Toolbar,A toolbar is the row at the top of the screen with various options to control the IDE </item>
+        <item>Preview Pane,The preview pane is the screen displaying the android device that allows for previewing of your screen without running the emulator.</item>
+        <item>Android Pane,The android pane displays Android DDMS information regarding the currently running emulators.</item>
+        <item>Project Explorer,The project explorer allows you to browse through the contents of your project folder.</item>
+        <item>.idea Folder,The .idea folder contains settings relevant to the project</item>
+        <item>intellisense,Intellisense is the tool built into the IDE allowing for prediction of code as you type.</item>
+        <item>Module,A module is a grouping of your code/data that can be built and run.</item>
+        <item>Live Layout,Live layout allows you to preview your application on a connected Android device.</item>
+        <item>init,Git init is used to create a new empty git directory.</item>
+        <item>commit,Git commit is used to save changes made on your local repository.</item>
+        <item>push,Git push is used to push commited changes to a remote repository.</item>
+        <item>add,Git add is used to add files to be tracked by git.</item>
+        <item>pull,Git pull is used to download remote repository files to your local repository.</item>
+        <item>branch,Git branch is used to duplicate a repository into another new branch.</item>
+        <item>clone,Git clone allows you to copy a repository into a new location/directory.</item>
+    </string-array>
+
+    <string name="title_activity_web">WebActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
